@@ -1,0 +1,5 @@
+{
+  "name": "SSE Stream Inspector",
+  "description": "A powerful developer tool to parse, visualize, and reconstruct raw Server-Sent Events (SSE) streams, specifically optimized for Claude-style model outputs including thinking blocks and tool calls.",
+  "requestFramePermissions": []
+}
